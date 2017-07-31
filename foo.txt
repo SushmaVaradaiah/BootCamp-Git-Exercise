@@ -1,0 +1,2 @@
+I am foo
+I am a text file too

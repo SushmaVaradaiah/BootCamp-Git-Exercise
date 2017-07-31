@@ -2,3 +2,4 @@ I am bar
 I  am a text file.
 I am addingf it for the second time.
 Comit to bar.txt first time:
+Commit to bar.txt for the second file

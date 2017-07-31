@@ -1,4 +1,5 @@
 I am foo
 I am a text file too
 I am adding this for the third time
+I am modifying the foo.txxt as part
 

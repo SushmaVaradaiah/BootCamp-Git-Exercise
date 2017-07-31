@@ -1,2 +1,3 @@
 I am bar
 I  am a text file.
+I am addingf it for the second time.
